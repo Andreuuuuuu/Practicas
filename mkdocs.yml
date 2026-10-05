@@ -1,1 +1,13 @@
+site_name: Mi documentación de prácticas
+site_url: https://Andreuuuuuu.github.io/Practicas/
+theme:
+  name: material  # Cambia aquí el nombre del tema
+  language: es
+  features:
+    - navigation.tabs
+    - navigation.sections
 
+nav:
+  - Inicio: index.md
+  - Práctica 1: practica1.md
+  - Práctica 2: practica2.md
