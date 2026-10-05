@@ -14,6 +14,6 @@ Aquest lloc recull totes les pràctiques realitzades durant el curs, documentade
 ## Índex de pràctiques
 
 1. [Col·laborant - pull request](Pull_Request.md)
-2. [GIT - branques i unions](docs/Branquesunions.md)
-3. [Instal·lació d'un servidor LEMP](Instal·lació d'un servidor LEMP.md)
-4. [MkDocs, Material i GitHub Pages](MkDocs, Material i GitHub Pages.md)
+2. [GIT - branques i unions](Branques_y_Unions.md)
+3. [Instal·lació d'un servidor LEMP](Servidor_LEMP.md)
+5. [MkDocs, Material i GitHub Pages](Mkdocs_Material_Github_Pages.md)
