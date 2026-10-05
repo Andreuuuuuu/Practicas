@@ -11,7 +11,5 @@ nav:
   - Inicio: index.md
   - Práctica 1: Col·laborant - pull request
   - Práctica 2: GIT - branques i unions
-  - Práctica 3: GitHub y Markdown
-  - Práctica 4: Instal·lació d’un servidor LEMP
-  - Práctica 5: Introducción a git y GitHub
-  - Práctica 6: MkDocs, Material i GitHub Pages
+  - Práctica 3: Instal·lació d’un servidor LEMP
+  - Práctica 4: MkDocs, Material i GitHub Pages
