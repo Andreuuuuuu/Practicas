@@ -17,10 +17,3 @@ Aquest lloc recull totes les pràctiques realitzades durant el curs, documentade
 2. [GIT - branques i unions](docs/Branquesunions.md)
 3. [Instal·lació d'un servidor LEMP](Instal·lació d'un servidor LEMP.md)
 4. [MkDocs, Material i GitHub Pages](MkDocs, Material i GitHub Pages.md)
-
-## Com executar el projecte
-
-Per a previsualitzar el lloc localment, cal activar l'entorn virtual i executar:
-
-```bash
-mkdocs serve
